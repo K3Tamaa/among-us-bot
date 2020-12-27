@@ -1,0 +1,6 @@
+2020/12/27 23:30:47 [792809545554329640 | K3Tamaa & Furilos] "new" command typed by user 792819839332646932
+2020/12/27 23:30:47 [792809545554329640 | K3Tamaa & Furilos] Generated URL for connection: aucapture://localhost:8123/7203CE01?insecure
+2020/12/27 23:30:48 [792809545554329640 | K3Tamaa & Furilos] User that typed new is in the "Among Us" voice channel; using that for tracking
+2020/12/27 23:30:48 [792809545554329640 | K3Tamaa & Furilos] Added self game state message
+2020/12/27 23:33:21 [792809545554329640 | K3Tamaa & Furilos] Player 792819839332646932 reacted with color black
+2020/12/27 23:33:21 [792809545554329640 | K3Tamaa & Furilos] Not unmuting k3 test because they're already unmuted

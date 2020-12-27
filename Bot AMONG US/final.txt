@@ -1,0 +1,1 @@
+DISCORD_BOT_TOKEN = NzkyODczNjUzNjcwMjQ4NDc4.X-kDIQ.HQ4b71Gl75K5whtyenSou-yE2ss

@@ -1,0 +1,36 @@
+2020/12/27 23:29:26 2.4.3-3d7a51cbe55363f312e8eb23a72e08e1d2c94c48
+2020/12/27 23:29:26 [Info] No valid HOST provided. Defaulting to http://localhost:8123
+2020/12/27 23:29:26 [Info] No PORT provided. Defaulting to 8123
+2020/12/27 23:29:26 [Info] No SERVICE_PORT provided. Defaulting to 5000
+2020/12/27 23:29:26 Using capture timeout of 36000 seconds
+2020/12/27 23:29:26 Using ./ as the base path for config
+2020/12/27 23:29:26 Success in initializing the local Filesystem as the Storage Driver
+2020/12/27 23:29:26 Bot is now running.  Press CTRL-C to exit.
+2020/12/27 23:29:26 Serving at localhost:8123...
+2020/12/27 23:29:26 Added to new Guild, id 792809545554329640, name K3Tamaa & Furilos
+2020/12/27 23:29:26 [This is not an error] No explicit guildID provided for emojis; using the current guild default
+2020/12/27 23:32:48 connected: 1
+2020/12/27 23:32:48 connected: 1
+2020/12/27 23:32:48 Received connection code: "7203CE01"
+2020/12/27 23:32:48 Associated websocket id 1 with guildID 792809545554329640 using code 7203CE01
+2020/12/27 23:32:48 Bot inactivity timer has been reset to 36000 seconds
+2020/12/27 23:32:49 phase received from capture:  0
+2020/12/27 23:32:49 Pushing phase event to channel
+2020/12/27 23:32:49 Bot inactivity timer has been reset to 36000 seconds
+2020/12/27 23:32:49 Received PhaseUpdate message for guild 792809545554329640
+2020/12/27 23:32:49 Detected transition to Lobby
+2020/12/27 23:32:49 player received from capture:  {"Action":4,"Name":"loul","IsDead":false,"Disconnected":false,"Color":6}
+2020/12/27 23:32:49 Bot inactivity timer has been reset to 36000 seconds
+2020/12/27 23:32:54 Received PlayerUpdate message for guild 792809545554329640
+2020/12/27 23:32:54 Added new player instance for loul
+2020/12/27 23:32:54 Attempting to link via cached user names
+2020/12/27 23:32:54 lobby: {"LobbyCode":"VQYEFF","Region":2,"Map":0}
+2020/12/27 23:32:54 Received room code {"LobbyCode":"VQYEFF","Region":2,"Map":0} for guild 792809545554329640 from capture
+2020/12/27 23:32:54 Bot inactivity timer has been reset to 36000 seconds
+2020/12/27 23:32:54 Received PhaseUpdate message for guild 792809545554329640
+2020/12/27 23:33:21 Storage worker received update: 792819839332646932
+2020/12/27 23:42:56 phase received from capture:  3
+2020/12/27 23:42:56 Pushing phase event to channel
+2020/12/27 23:42:56 Bot inactivity timer has been reset to 36000 seconds
+2020/12/27 23:42:56 Received PhaseUpdate message for guild 792809545554329640
+2020/12/27 23:42:56 Detected transition to Menu
